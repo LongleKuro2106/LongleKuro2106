@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning AWS Certified Solutions Architect - Associate<br>🎯 Goals: Full Stack Engineering and DevOps, gain more experience and code more<br>🎲 Fun fact: I will never stop until I find the solution</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning AWS Certified Solutions Architect - Associate<br>🎯 Goals: Full Stack Engineering and DevOps, gain more experience and code more<br>🎲 Fun fact: I enjoy billibards and try hard in badminton</p>
 
 ###
 
